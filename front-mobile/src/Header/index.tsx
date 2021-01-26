@@ -1,4 +1,3 @@
-
 import { useNavigation } from '@react-navigation/native';
 import React from 'react';
 import { StyleSheet, Text, View, Image } from 'react-native';
@@ -37,7 +36,7 @@ text: {
     letterSpacing: -0.24,
     color: '#FFF',
     marginLeft: 15,
-    fontFamily: ' OpenSans_700Bold'
+    fontFamily: 'OpenSans_700Bold'
     }
 });
 
